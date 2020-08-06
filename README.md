@@ -1,12 +1,8 @@
 # Rock Paper Scissors
-> Using Java for a simple game on desktop
+> Using Java for a simple rock paper scissors game (GUI and normal code)
 
 ## Table of contents
-* [General info](#general-info)
 * [Technologies](#technologies)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## Technologies
