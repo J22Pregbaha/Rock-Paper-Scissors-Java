@@ -112,19 +112,9 @@ public class RockPaperScissors {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        SimpleDateFormat formatter = new SimpleDateFormat("HH:mm");
-        Date date = new Date();
-        String now_now = formatter.format(date);
-        System.out.println(now_now);
-        
-        if (now_now.equals("23:27")) {
-            System.out.println("Call me");
-        }
-        
-        LocalDate myObj = LocalDate.now(); // Create a date object
         //System.out.println(myObj);
-        /*RockPaperScissors cow = new RockPaperScissors();
-        cow.start();*/
+        RockPaperScissors cow = new RockPaperScissors();
+        cow.start();
         
         /*int i = 5;
         i++;
